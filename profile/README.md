@@ -4,27 +4,28 @@
  <img alt="codelabmw logo" src="https://github.com/codelabmw/.github/blob/main/codelabmw-transparent-banner.svg">
 </picture>
 
+# About Us
 
-# We think you’re going to like it here
+> We think you’re going to like it here
 
 
 At codelabmw, we believe in harnessing the power of technology to elevate people and its community. Passionate about technology, our comprehensive suite of IT services spans a wide range of technologies and industries, allowing us to offer personalized, high-impact services such as IT consulting, managed services, application development, and more. We're relentlessy dedicated to delivering innovative, reliable, and scalable technology solutions. We are your trusted partner in navigating the complexities of the modern IT landscape. As the future is for us all, let's build the future together.
 
 
 
-### 1. Mission Statement
+### Mission Statement
 
 It is in our organization's primary goals and values.
 
 > To deliver innovative and reliable IT solutions that drive business success and foster technological advancement.
 
-### 2. Vision Statement
+### Vision Statement
 
 codelabmw aspire to achieve in the future.
 
 > To be a global leader in IT services, empowering businesses with cutting-edge technology and exceptional support.
 
-### 3. Core Values
+### Core Values
 
 A few key values that guide our organization’s work and culture.
 
